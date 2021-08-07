@@ -14,7 +14,7 @@
 
       <v-card>
         <v-card-title class="text-h5 grey lighten-2">
-          Notification from Ajarn Main Branch
+          Notification feature 55555
         </v-card-title>
         <v-card-text>
           อาจารย์ซึ้งใจเป็นอย่างมากที่ทุกคนตั้งใจกันอยากเรียนแต่วิชาเต็มแล้ว TwT
