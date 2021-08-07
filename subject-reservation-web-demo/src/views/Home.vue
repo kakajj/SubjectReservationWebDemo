@@ -2,7 +2,7 @@
   <div class="home">
     <br />
     <p style="font-family: Roboto; font-size: 18pt">
-      SIT Subject Reservation Web By Jj
+      SIT Subject Reservation Web By Jj Feature List subejct
     </p>
     <br />
     <v-row justify="center" align="top" no-gutters style="height: 150px">
@@ -14,7 +14,7 @@
 
       <v-card>
         <v-card-title class="text-h5 grey lighten-2">
-          Notification from Ajarn
+          Notification from Ajarn Main Branch
         </v-card-title>
         <v-card-text>
           อาจารย์ซึ้งใจเป็นอย่างมากที่ทุกคนตั้งใจกันอยากเรียนแต่วิชาเต็มแล้ว TwT
